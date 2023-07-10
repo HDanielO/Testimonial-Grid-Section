@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/HDanielO/Testimonial-Grid-Section](https://github.com/HDanielO/Testimonial-Grid-Section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://hdanielo.github.io/Testimonial-Grid-Section/](https://hdanielo.github.io/Testimonial-Grid-Section/)
 
 ## My process
 
